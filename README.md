@@ -9,5 +9,5 @@ Prelab 3: Digital timer for Brian Pfaff.
 4. Running acceleration idea
 5. door-kettle on
 6. User asleep Turn off TV
-7-9. (stove protector, cat jump tracker, jump rope tracker)[https://github.com/bripfaff/IDD-Fa18-Prelab3/blob/master/A09959A2-B914-4775-AAEE-9F6075EB4E92.jpeg]
+7-9. [stove protector, cat jump tracker, jump rope tracker](https://github.com/bripfaff/IDD-Fa18-Prelab3/blob/master/A09959A2-B914-4775-AAEE-9F6075EB4E92.jpeg)
 
