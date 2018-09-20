@@ -7,5 +7,5 @@ Prelab 3: Digital timer for Brian Pfaff.
 
 5-7. ![Link](https://github.com/bripfaff/IDD-Fa18-Prelab4/blob/master/96F875B7-D4BB-44F7-AF9E-82DF37F4883D.jpeg)
 
-7-10. ![Link](https://github.com/bripfaff/IDD-Fa18-Prelab3/blob/master/A09959A2-B914-4775-AAEE-9F6075EB4E92.jpeg)
+7-10.![Link](https://github.com/bripfaff/IDD-Fa18-Prelab4/blob/master/7F0284EC-F446-4D29-8F46-F8DC6AAB555E.jpeg)
 
